@@ -2,5 +2,5 @@
 LexKendraBot Lambda code for finding documents.
 
 Libaries used:
-  Pandas
+  Pandas,
   Boto3
